@@ -3,4 +3,20 @@ body{
     margin: auto;
     background-color: purple;
     color: white;
+    max-width: 800px;
+    margin-right: px;
+}
+
+h1{
+    font-size: 80px;
+}
+h2{
+    font-size: 100px;
+}
+
+.div1{
+    margin: 20px;
+}
+a{
+    color: white;
 }
